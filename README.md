@@ -19,6 +19,13 @@
     - Does not require a dedicated Jupyter server. ​
     - Only a web server is required, which means ​we can deploy JupyerLite as a static website.​
     - We can also use it to create interactive graphics and visualizations because it supports many visualization libraries like Altair, Plotly, and ipywidgets​.
-    - Since it is a distribution of JupyterLab, ​it includes the latest improvements and features.​  
+    - Since it is a distribution of JupyterLab, ​it includes the latest improvements and features.​
+  - **GoogleColab**:
+    - Execute on a browser
+    - Projects are stored on Google Drive and GitHub.
+    - Upload and share notebooks without setup and installation.​
+    - Clone projects from GitHub and execute them in GoogleColab.​
+    - Most machine learning and visualization libraries are pre-installed, like scikit-learn and matplotlib.​
+    - You can develop many trending data science applications “on the fly”, which is to say, quickly without a lot of setup or preparation.​
 - Lab4d: Download & Install Anaconda on Windows
 - Jupyter Notebooks on the Internet
