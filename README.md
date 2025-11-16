@@ -13,6 +13,6 @@
   - Anaconda Navigator - **JupyterLab**
   - **VS Code** installation (locally)
   - Anaconda Navigator - VS Code 
-- Additional Cloud Based Jupyter Environments
+- Additional **Cloud Based Jupyter Environments**: JupyterLite and GoogleColaboratory (cloud based environments used to create and modify Jupyter Notebooks) 
 - Lab4d: Download & Install Anaconda on Windows
 - Jupyter Notebooks on the Internet
