@@ -10,17 +10,17 @@
 - Lab4c: Working with files in Jupyter Notebooks
 - Additional **Anaconda Jupyter Environments**: JupyterLab and VS Code (creating and modifying Jupyter Notebooks in a local device)
   - **Anaconda Navigator GUI**
-  - Anaconda Navigator - **JupyterLab**
+  - Anaconda Navigator - **JupyterLab** :
   - **VS Code** installation (locally)
   - Anaconda Navigator - VS Code 
 - Additional **Cloud Based Jupyter Environments**: JupyterLite and GoogleColaboratory (cloud based environments used to create and modify Jupyter Notebooks)
-  - **JupyterLite**:
+  - **JupyterLite**: Launch JupyterLite
     - Lightweight tool built from JupyterLab components ​that executes entirely in the browser.​
     - Does not require a dedicated Jupyter server. ​
     - Only a web server is required, which means ​we can deploy JupyerLite as a static website.​
     - We can also use it to create interactive graphics and visualizations because it supports many visualization libraries like Altair, Plotly, and ipywidgets​.
     - Since it is a distribution of JupyterLab, ​it includes the latest improvements and features.​
-  - **GoogleColab**:
+  - **GoogleColab**: Explore GoolgeColab
     - Execute on a browser
     - Projects are stored on Google Drive and GitHub.
     - Upload and share notebooks without setup and installation.​
